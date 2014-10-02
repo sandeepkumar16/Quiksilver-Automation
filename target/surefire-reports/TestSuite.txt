@@ -1,0 +1,50 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 2, Errors: 0, Skipped: 2, Time elapsed: 633.293 sec <<< FAILURE! - in TestSuite
+getToStep1GuestCheckout(com.quiksilver.test.GuestCheckoutExpressAmexTest)  Time elapsed: 106.216 sec  <<< FAILURE!
+org.openqa.selenium.TimeoutException: Timed out after 15 seconds waiting for presence of element located by: By.xpath: //a[contains(@href,'en_US/Cart-Show')]
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'PUNRAZ.local', ip: '10.37.129.2', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.7.5', java.version: '1.7.0_07'
+Driver info: driver.version: unknown
+	at sun.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:730)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:39)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:106)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:103)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	at com.quiksilver.util.CommonMethods.fromMiniCartToCart(CommonMethods.java:1592)
+	at com.quiksilver.test.GuestCheckoutExpressAmexTest.getToStep1GuestCheckout(GuestCheckoutExpressAmexTest.java:64)
+
+searchForItemGetToCheckout(com.quiksilver.test.SearchForItemGuestCheckoutTest)  Time elapsed: 129.04 sec  <<< FAILURE!
+org.openqa.selenium.TimeoutException: Timed out after 15 seconds waiting for presence of element located by: By.xpath: //a[contains(@href,'en_US/Cart-Show')]
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'PUNRAZ.local', ip: '10.37.129.2', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.7.5', java.version: '1.7.0_07'
+Driver info: driver.version: unknown
+	at sun.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:730)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:39)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:106)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:103)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	at com.quiksilver.util.CommonMethods.fromMiniCartToCart(CommonMethods.java:1592)
+	at com.quiksilver.test.SearchForItemGuestCheckoutTest.searchForItemGetToCheckout(SearchForItemGuestCheckoutTest.java:57)
+

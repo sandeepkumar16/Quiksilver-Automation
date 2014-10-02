@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Multibrowser_DC_Quiksilver">
+              <span class="suite-name border-skipped">Multibrowser_DC_Quiksilver</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Multibrowser_DC_Quiksilver">
+                    <span>suite.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Multibrowser_DC_Quiksilver">
+                    <span class="test-stats">5 tests</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Multibrowser_DC_Quiksilver">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Multibrowser_DC_Quiksilver">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Multibrowser_DC_Quiksilver">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Multibrowser_DC_Quiksilver">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Multibrowser_DC_Quiksilver">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">1 method,  1 skipped,  </span>
+                  </li>
+                  <li>
+                    <span class="method-list-title skipped">Skipped methods</span>
+                    <span class="show-or-hide-methods skipped">
+                      <a href="#" panel-name="suite-Multibrowser_DC_Quiksilver" class="hide-methods skipped suite-Multibrowser_DC_Quiksilver"> (hide)</a> <!-- hide-methods skipped suite-Multibrowser_DC_Quiksilver -->
+                      <a href="#" panel-name="suite-Multibrowser_DC_Quiksilver" class="show-methods skipped suite-Multibrowser_DC_Quiksilver"> (show)</a> <!-- show-methods skipped suite-Multibrowser_DC_Quiksilver -->
+                    </span>
+                    <div class="method-list-content skipped suite-Multibrowser_DC_Quiksilver">
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Multibrowser_DC_Quiksilver" title="com.quiksilver.test.GuestVisaCheckoutTest" hash-for-method="testGuestCheckoutVisa">testGuestCheckoutVisa</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content skipped suite-Multibrowser_DC_Quiksilver -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Multibrowser_DC_Quiksilver" class="panel Multibrowser_DC_Quiksilver">
+          <div class="suite-Multibrowser_DC_Quiksilver-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.quiksilver.test.GuestVisaCheckoutTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testGuestCheckoutVisa">
+                  </a> <!-- testGuestCheckoutVisa -->
+                  <span class="method-name">testGuestCheckoutVisa</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Multibrowser_DC_Quiksilver-class-skipped -->
+        </div> <!-- panel Multibrowser_DC_Quiksilver -->
+        <div panel-name="test-xml-Multibrowser_DC_Quiksilver" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">/Users/vpeter/Desktop/eclipse/TestScripts/QUIKMVNXXX/suite.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite configfailurepolicy=&quot;continue&quot; name=&quot;Multibrowser_DC_Quiksilver&quot;&gt;
+  &lt;test name=&quot;FirefoxTest&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;firefox&quot;/&gt;
+    &lt;parameter name=&quot;url&quot; value=&quot;stagingDC_US&quot;/&gt;
+  &lt;/test&gt; &lt;!-- FirefoxTest --&gt;
+  &lt;test name=&quot;ChromeTest&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+    &lt;parameter name=&quot;url&quot; value=&quot;stagingDC_US&quot;/&gt;
+  &lt;/test&gt; &lt;!-- ChromeTest --&gt;
+  &lt;test name=&quot;DCShoesDEVELOPMENTUSFirefoxTest&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;firefox&quot;/&gt;
+    &lt;parameter name=&quot;url&quot; value=&quot;devDCshoesUS&quot;/&gt;
+  &lt;/test&gt; &lt;!-- DCShoesDEVELOPMENTUSFirefoxTest --&gt;
+  &lt;test name=&quot;DCShoesDEVELOPMENT_FRANCEChromeTest&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+    &lt;parameter name=&quot;url&quot; value=&quot;devDCshoesFR&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.quiksilver.test.GuestVisaCheckoutTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- DCShoesDEVELOPMENT_FRANCEChromeTest --&gt;
+  &lt;test name=&quot;SafariTest&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;safari&quot;/&gt;
+    &lt;parameter name=&quot;url&quot; value=&quot;stagingDC_US&quot;/&gt;
+  &lt;/test&gt; &lt;!-- SafariTest --&gt;
+&lt;/suite&gt; &lt;!-- Multibrowser_DC_Quiksilver --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Multibrowser_DC_Quiksilver" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Multibrowser_DC_Quiksilver</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">FirefoxTest (0 classes)</span>
+              </li>
+              <li>
+                <span class="test-name">ChromeTest (0 classes)</span>
+              </li>
+              <li>
+                <span class="test-name">DCShoesDEVELOPMENTUSFirefoxTest (0 classes)</span>
+              </li>
+              <li>
+                <span class="test-name">DCShoesDEVELOPMENT_FRANCEChromeTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">SafariTest (0 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Multibrowser_DC_Quiksilver" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Multibrowser_DC_Quiksilver</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Multibrowser_DC_Quiksilver" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Multibrowser_DC_Quiksilver</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Multibrowser_DC_Quiksilver');
+function tableData_Multibrowser_DC_Quiksilver() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(1);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'testGuestCheckoutVisa')
+data.setCell(0, 2, 'com.quiksilver.test.GuestVisaCheckoutTest')
+data.setCell(0, 3, 0);
+window.suiteTableData['Multibrowser_DC_Quiksilver']= { tableData: data, tableDiv: 'times-div-Multibrowser_DC_Quiksilver'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 0 ms</span>
+              <div id="times-div-Multibrowser_DC_Quiksilver">
+              </div> <!-- times-div-Multibrowser_DC_Quiksilver -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Multibrowser_DC_Quiksilver" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Multibrowser_DC_Quiksilver</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Multibrowser_DC_Quiksilver" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Multibrowser_DC_Quiksilver" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.quiksilver.test.GuestVisaCheckoutTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">beforeTest(chrome)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">getToHome(devDCshoesFR)</span>
+                <span class="method-start">9923 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">getToStep1</span>
+                <span class="method-start">15085 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testGuestCheckoutVisa</span>
+                <span class="method-start">66563 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">66564 ms</span>
+              </div> <!-- configuration-class after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

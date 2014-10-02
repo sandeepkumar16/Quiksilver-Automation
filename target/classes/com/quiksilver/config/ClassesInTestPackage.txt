@@ -1,0 +1,19 @@
+<class name="com.quiksilver.test.AccountRegistrationTest"/>
+ <class name="com.quiksilver.test.AddToCartFromPdpTest"/>
+ <class name="com.quiksilver.test.AddToWishListPdpTest"/>
+ <class name="com.quiksilver.test.GuestCheckoutExpressAmexTest"/>
+ <class name="com.quiksilver.test.GuestCheckoutMultiPaymentWithDataProvider"/>
+ <class name="com.quiksilver.test.GuestVisaCheckoutTest"/>
+ <class name="com.quiksilver.test.HomePageTest"/>
+ <class name="com.quiksilver.test.LoginTest"/>
+ <class name="com.quiksilver.test.SearchForItemGuestCheckoutTest"/>
+ <class name="com.quiksilver.test.SignedInAddCardToProfileWithDataProviderTest"/>
+ <class name="com.quiksilver.test.SignedInAddToCartContinueShoppingCheckoutTest"/>
+ <class name="com.quiksilver.test.SignedInCheckoutExpressMasterTest"/>
+ <class name="com.quiksilver.test.SignedInDifferentShippingFromDropDownTest"/>
+ <class name="com.quiksilver.test.SignedInEditOnVerificationWithDataProviderTest"/>
+ <class name="com.quiksilver.test.SignedInEditShippingOnInscriptionTest"/>
+ <class name="com.quiksilver.test.SignedInNewShippingOnInscriptionTest"/>
+ <class name="com.quiksilver.test.SignedInPaymentFromDropDownTest"/>
+ 
+----------------------------2014-02-27 14:32:01.675------------------------------

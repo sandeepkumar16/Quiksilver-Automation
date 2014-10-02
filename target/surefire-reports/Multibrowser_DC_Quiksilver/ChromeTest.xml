@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="PUNRAZ.local" name="com.quiksilver.test.AccountRegistrationTest" tests="10" failures="0" timestamp="19 Aug 2014 23:21:09 GMT" time="632.592" errors="0">
+  <testcase name="@BeforeMethod getToStep1GuestCheckout" time="0.0" classname="com.quiksilver.test.GuestCheckoutExpressAmexTest">
+    <failure type="org.openqa.selenium.TimeoutException" message="Timed out after 15 seconds waiting for presence of element located by: By.xpath: //a[contains(@href,&amp;apos;en_US/Cart-Show&amp;apos;)]
+Build info: version: &amp;apos;2.42.2&amp;apos;, revision: &amp;apos;6a6995d31c7c56c340d6f45a76976d43506cd6cc&amp;apos;, time: &amp;apos;2014-06-03 10:52:47&amp;apos;
+System info: host: &amp;apos;PUNRAZ.local&amp;apos;, ip: &amp;apos;10.37.129.2&amp;apos;, os.name: &amp;apos;Mac OS X&amp;apos;, os.arch: &amp;apos;x86_64&amp;apos;, os.version: &amp;apos;10.7.5&amp;apos;, java.version: &amp;apos;1.7.0_07&amp;apos;
+Driver info: driver.version: unknown">
+      <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 15 seconds waiting for presence of element located by: By.xpath: //a[contains(@href,'en_US/Cart-Show')]
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'PUNRAZ.local', ip: '10.37.129.2', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.7.5', java.version: '1.7.0_07'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:259)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.quiksilver.util.CommonMethods.fromMiniCartToCart(CommonMethods.java:1592)
+	at com.quiksilver.test.GuestCheckoutExpressAmexTest.getToStep1GuestCheckout(GuestCheckoutExpressAmexTest.java:64)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:217)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:92)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=36.0.1985.143)
+  (Driver info: chromedriver=2.9.248307,platform=Mac OS X 10.7.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'PUNRAZ.local', ip: '10.37.129.2', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.7.5', java.version: '1.7.0_07'
+Session ID: e69051fde33ebaffaade324e43600a3b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=MAC, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=/var/folders/vv/30lw1_z968g34f959mr38g3m0000gp/T/.org.chromium.Chromium.d9kKGQ}, rotatable=false, locationContextEnabled=true, version=36.0.1985.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:730)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:39)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:106)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:103)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 32 more
+... Removed 27 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="@BeforeMethod searchForItemGetToCheckout" time="0.0" classname="com.quiksilver.test.SearchForItemGuestCheckoutTest">
+    <failure type="org.openqa.selenium.TimeoutException" message="Timed out after 15 seconds waiting for presence of element located by: By.xpath: //a[contains(@href,&amp;apos;en_US/Cart-Show&amp;apos;)]
+Build info: version: &amp;apos;2.42.2&amp;apos;, revision: &amp;apos;6a6995d31c7c56c340d6f45a76976d43506cd6cc&amp;apos;, time: &amp;apos;2014-06-03 10:52:47&amp;apos;
+System info: host: &amp;apos;PUNRAZ.local&amp;apos;, ip: &amp;apos;10.37.129.2&amp;apos;, os.name: &amp;apos;Mac OS X&amp;apos;, os.arch: &amp;apos;x86_64&amp;apos;, os.version: &amp;apos;10.7.5&amp;apos;, java.version: &amp;apos;1.7.0_07&amp;apos;
+Driver info: driver.version: unknown">
+      <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 15 seconds waiting for presence of element located by: By.xpath: //a[contains(@href,'en_US/Cart-Show')]
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'PUNRAZ.local', ip: '10.37.129.2', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.7.5', java.version: '1.7.0_07'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:259)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.quiksilver.util.CommonMethods.fromMiniCartToCart(CommonMethods.java:1592)
+	at com.quiksilver.test.SearchForItemGuestCheckoutTest.searchForItemGetToCheckout(SearchForItemGuestCheckoutTest.java:57)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:217)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:92)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=36.0.1985.143)
+  (Driver info: chromedriver=2.9.248307,platform=Mac OS X 10.7.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'PUNRAZ.local', ip: '10.37.129.2', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.7.5', java.version: '1.7.0_07'
+Session ID: 85bc766da38954f608d6b84097afde0e
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=MAC, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=/var/folders/vv/30lw1_z968g34f959mr38g3m0000gp/T/.org.chromium.Chromium.PGe44J}, rotatable=false, locationContextEnabled=true, version=36.0.1985.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:730)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:39)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:106)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:103)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 32 more
+... Removed 27 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="registrationForm" time="28.285" classname="com.quiksilver.test.AccountRegistrationTest"/>
+  <testcase name="fromHomeToPDP" time="44.404" classname="com.quiksilver.test.AddToCartFromPdpTest"/>
+  <testcase name="testGuestCheckoutAmex" time="0.001" classname="com.quiksilver.test.GuestCheckoutExpressAmexTest">
+    <skipped/>
+  </testcase>
+  <testcase name="fillOutStep1InscriptionForm" time="26.878" classname="com.quiksilver.test.GuestCheckoutMultiPaymentWithDataProvider"/>
+  <testcase name="fillOutStep1InscriptionForm" time="23.41" classname="com.quiksilver.test.GuestCheckoutMultiPaymentWithDataProvider"/>
+  <testcase name="testGuestCheckoutVisa" time="19.574" classname="com.quiksilver.test.GuestVisaCheckoutTest"/>
+  <testcase name="checkoutSignInRegistered" time="13.001" classname="com.quiksilver.test.LoginTest"/>
+  <testcase name="checkoutSignInRegistered" time="11.521" classname="com.quiksilver.test.LoginTest"/>
+  <testcase name="searchForItemGuestCheckout" time="0.0" classname="com.quiksilver.test.SearchForItemGuestCheckoutTest">
+    <skipped/>
+  </testcase>
+  <testcase name="testSignedInAddToCartContinueShopping" time="2.293" classname="com.quiksilver.test.SignedInAddToCartContinueShoppingCheckoutTest"/>
+</testsuite>

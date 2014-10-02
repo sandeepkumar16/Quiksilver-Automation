@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite configfailurepolicy="continue" name="Failed suite [Multibrowser_DC_Quiksilver]">
+  <parameter name="browser" value="safari"/>
+  <parameter name="url" value="stagingDC_US"/>
+  <test name="DCShoesDEVELOPMENT_FRANCEChromeTest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="devDCshoesFR"/>
+    <classes>
+      <class name="com.quiksilver.test.GuestVisaCheckoutTest">
+        <methods>
+          <include name="getToStep1"/>
+          <include name="beforeTest"/>
+          <include name="testGuestCheckoutVisa"/>
+          <include name="getToHome"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.quiksilver.test.GuestVisaCheckoutTest -->
+    </classes>
+  </test> <!-- DCShoesDEVELOPMENT_FRANCEChromeTest(failed) -->
+</suite> <!-- Failed suite [Multibrowser_DC_Quiksilver] -->

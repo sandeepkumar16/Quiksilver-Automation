@@ -1,0 +1,21 @@
+
+This are the basic annotations for TestNG
+
+@BeforeSuite - For suite test, run before all tests in this suite have run. 
+@AfterSuite -  For suite test, run after all tests in this suite have run.
+ 
+@BeforeTest - For suite test, run before any test method belonging to the classes inside the <test> tag is run. 
+@AfterTest - For suite test, run after all the test methods belonging to the classes inside the <test> tag have run. 
+ 
+@BeforeGroups: Run before the first test method that belongs to the group is invoked. 
+@AfterGroups: Run after the last test method that belongs to the groups is invoked. 
+ 
+@BeforeClass - Run before the first test method in the current class is invoked. 
+@AfterClass - Run after all the test methods in the current class have been run. 
+ 
+@BeforeMethod - Run before each test method. 
+@AfterMethod - Run after each test method.
+
+The SafariDriver is implemented as a Safari browser extension. 
+The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets.
+Starting with Selenium 2.30.0, the SafariDriver comes bundled with the Selenium server.

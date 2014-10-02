@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="404.623" tests="12" errors="0" skipped="2" failures="2">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home/jre/lib"/>
+    <property name="java.vm.version" value="23.3-b01"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/vpeter/Desktop/eclipse/TestScripts/QUIKMVNXXX"/>
+    <property name="java.runtime.version" value="1.7.0_07-b10"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/vv/30lw1_z968g34f959mr38g3m0000gp/T/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="classworlds.conf" value="/usr/share/maven/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/vpeter/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.7.5"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/vpeter"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="vpeter"/>
+    <property name="java.class.path" value="/usr/share/maven/boot/plexus-classworlds-2.4.jar"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home/jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test site org.reportyng:reporty-ng:1.2:reportyng"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.7.0_07"/>
+    <property name="java.ext.dirs" value="/Users/vpeter/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home/jre/lib/JObjC.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/usr/share/maven"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase name="registrationForm" classname="com.quiksilver.test.AccountRegistrationTest" time="28.287"/>
+  <testcase name="fromHomeToPDP" classname="com.quiksilver.test.AddToCartFromPdpTest" time="44.404"/>
+  <testcase name="getToStep1GuestCheckout" classname="com.quiksilver.test.GuestCheckoutExpressAmexTest" time="106.216">
+    <failure message="Timed out after 15 seconds waiting for presence of element located by: By.xpath: //a[contains(@href,&apos;en_US/Cart-Show&apos;)]&#10;Build info: version: &apos;2.42.2&apos;, revision: &apos;6a6995d31c7c56c340d6f45a76976d43506cd6cc&apos;, time: &apos;2014-06-03 10:52:47&apos;&#10;System info: host: &apos;PUNRAZ.local&apos;, ip: &apos;10.37.129.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.7.5&apos;, java.version: &apos;1.7.0_07&apos;&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: Timed out after 15 seconds waiting for presence of element located by: By.xpath: //a[contains(@href,'en_US/Cart-Show')]
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'PUNRAZ.local', ip: '10.37.129.2', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.7.5', java.version: '1.7.0_07'
+Driver info: driver.version: unknown
+	at sun.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:730)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:39)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:106)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:103)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	at com.quiksilver.util.CommonMethods.fromMiniCartToCart(CommonMethods.java:1592)
+	at com.quiksilver.test.GuestCheckoutExpressAmexTest.getToStep1GuestCheckout(GuestCheckoutExpressAmexTest.java:64)
+</failure>
+    <system-out><![CDATA[Geo popup not triggered/present
+NOT logged in. Logout link is not present 
+inside catch
+About to click ADD TO CART
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriobjc[8589]:v Objecer (v2.9.248307) t 0on xd67490 of class NSThread autoreleased pwitort 46394
+h no pool in place - just leaking - break on objc_autoreleaseNoPool() to debug
+]]></system-err>
+  </testcase>
+  <testcase name="testGuestCheckoutAmex" classname="com.quiksilver.test.GuestCheckoutExpressAmexTest" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="fillOutStep1InscriptionForm" classname="com.quiksilver.test.GuestCheckoutMultiPaymentWithDataProvider" time="26.878"/>
+  <testcase name="fillOutStep1InscriptionForm" classname="com.quiksilver.test.GuestCheckoutMultiPaymentWithDataProvider" time="23.409"/>
+  <testcase name="testGuestCheckoutVisa" classname="com.quiksilver.test.GuestVisaCheckoutTest" time="19.574"/>
+  <testcase name="checkoutSignInRegistered" classname="com.quiksilver.test.LoginTest" time="13.001"/>
+  <testcase name="checkoutSignInRegistered" classname="com.quiksilver.test.LoginTest" time="11.521"/>
+  <testcase name="searchForItemGetToCheckout" classname="com.quiksilver.test.SearchForItemGuestCheckoutTest" time="129.04">
+    <failure message="Timed out after 15 seconds waiting for presence of element located by: By.xpath: //a[contains(@href,&apos;en_US/Cart-Show&apos;)]&#10;Build info: version: &apos;2.42.2&apos;, revision: &apos;6a6995d31c7c56c340d6f45a76976d43506cd6cc&apos;, time: &apos;2014-06-03 10:52:47&apos;&#10;System info: host: &apos;PUNRAZ.local&apos;, ip: &apos;10.37.129.2&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.7.5&apos;, java.version: &apos;1.7.0_07&apos;&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: Timed out after 15 seconds waiting for presence of element located by: By.xpath: //a[contains(@href,'en_US/Cart-Show')]
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'PUNRAZ.local', ip: '10.37.129.2', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.7.5', java.version: '1.7.0_07'
+Driver info: driver.version: unknown
+	at sun.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:730)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:39)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:106)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:103)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	at com.quiksilver.util.CommonMethods.fromMiniCartToCart(CommonMethods.java:1592)
+	at com.quiksilver.test.SearchForItemGuestCheckoutTest.searchForItemGetToCheckout(SearchForItemGuestCheckoutTest.java:57)
+</failure>
+    <system-out><![CDATA[Geo popup not triggered/present
+NOT logged in. Logout link is not present 
+After hitting ENTER on search
+On subcategory page title is 'Sites-DC-US-Site - DC Shoes'
+linkOmni.size()=50
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDrivero (v2b.9.2jc48307) on port[ 18155
+8675]: Object 0xe1df90 of class NSThread autoreleased with no pool in place - just leaking - break on objc_autoreleaseNoPool() to debug
+]]></system-err>
+  </testcase>
+  <testcase name="searchForItemGuestCheckout" classname="com.quiksilver.test.SearchForItemGuestCheckoutTest" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSignedInAddToCartContinueShopping" classname="com.quiksilver.test.SignedInAddToCartContinueShoppingCheckoutTest" time="2.293"/>
+</testsuite>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite configfailurepolicy="continue" verbose="0" name="Failed suite [Multibrowser_DC_Quiksilver]">
+  <parameter name="browser" value="safari"/>
+  <parameter name="url" value="stagingDC_US"/>
+  <test name="ChromeTest(failed)" preserve-order="false">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="stagingDC_US"/>
+    <classes>
+      <class name="com.quiksilver.test.LoginTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="tearDown"/>
+          <include name="getToHome"/>
+        </methods>
+      </class>
+      <class name="com.quiksilver.test.GuestCheckoutExpressAmexTest">
+        <methods>
+          <include name="getToStep1GuestCheckout"/>
+          <include name="testGuestCheckoutAmex"/>
+          <include name="beforeTest"/>
+          <include name="getToHome"/>
+          <include name="tearDown"/>
+        </methods>
+      </class>
+      <class name="com.quiksilver.test.SearchForItemGuestCheckoutTest">
+        <methods>
+          <include name="searchForItemGuestCheckout"/>
+          <include name="searchForItemGetToCheckout"/>
+          <include name="beforeTest"/>
+          <include name="getToHome"/>
+          <include name="tearDown"/>
+        </methods>
+      </class>
+      <class name="com.quiksilver.test.SignedInAddToCartContinueShoppingCheckoutTest">
+        <methods>
+          <include name="addToCartContinueShoppingPDP"/>
+          <include name="beforeTest"/>
+          <include name="getToHome"/>
+          <include name="tearDown"/>
+        </methods>
+      </class>
+      <class name="com.quiksilver.test.AddToCartFromPdpTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getToHome"/>
+          <include name="tearDown"/>
+        </methods>
+      </class>
+      <class name="com.quiksilver.test.AccountRegistrationTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getToHome"/>
+          <include name="tearDown"/>
+        </methods>
+      </class>
+      <class name="com.quiksilver.test.GuestCheckoutMultiPaymentWithDataProvider">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getToStep1"/>
+          <include name="tearDown"/>
+          <include name="getToHome"/>
+        </methods>
+      </class>
+      <class name="com.quiksilver.test.GuestVisaCheckoutTest">
+        <methods>
+          <include name="getToStep1"/>
+          <include name="beforeTest"/>
+          <include name="tearDown"/>
+          <include name="getToHome"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

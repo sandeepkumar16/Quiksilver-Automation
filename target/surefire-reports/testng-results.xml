@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="2" failed="0" total="10" passed="8">
+  <reporter-output>
+    <line>
+      <![CDATA[Currently testing URL: data:,]]>
+    </line>
+    <line>
+      <![CDATA[On Home page title is DC Shoes | Skate & Snowboard Quality Clothing]]>
+    </line>
+    <line>
+      <![CDATA[After click on 'Register' link in the header page title is Login to your Personal Account - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[SauceOnDemandSessionID=348d801326b0bf261de71e7ccb30cec0 job-name=dc Automation Test]]>
+    </line>
+    <line>
+      <![CDATA[Currently testing URL: data:,]]>
+    </line>
+    <line>
+      <![CDATA[On Home page title is DC Shoes | Skate & Snowboard Quality Clothing]]>
+    </line>
+    <line>
+      <![CDATA[On Subcat page title is Mens T-Shirts: Short and Long Sleeve Tees - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[On subcategory page title is 'Mens T-Shirts: Short and Long Sleeve Tees - DC Shoes']]>
+    </line>
+    <line>
+      <![CDATA[On PDP page title is dcshoes SCRATCH STAR ADYZT03051 - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[Currently testing URL: data:,]]>
+    </line>
+    <line>
+      <![CDATA[On Home page title is DC Shoes | Skate & Snowboard Quality Clothing]]>
+    </line>
+    <line>
+      <![CDATA[None of the sizes are available for this product]]>
+    </line>
+    <line>
+      <![CDATA[Currently testing URL: data:,]]>
+    </line>
+    <line>
+      <![CDATA[On Home page title is DC Shoes | Skate & Snowboard Quality Clothing]]>
+    </line>
+    <line>
+      <![CDATA[On Subcat page title is Mens T-Shirts: Short and Long Sleeve Tees - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[On subcategory page title is 'Mens T-Shirts: Short and Long Sleeve Tees - DC Shoes']]>
+    </line>
+    <line>
+      <![CDATA[On PDP page title is dcshoes OMEGA ADYZT03037 - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[After click on Checkout button on mini-cart title is Shopping Bag - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[After click on Checkout button on Cart page  title is Sign In - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[After click on 'Guest Checkout' button on Cart page  title is Enter Payment And Delivery Address - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[After click on 'continue' button on Inscription page got to Enter Paymentmode - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[Current page title is Enter Paymentmode - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[On 'Confirmation' page order number is Order Number: 0003900181355]]>
+    </line>
+    <line>
+      <![CDATA[This page title is :Thank You For Your Order - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[Current page title: Thank You For Your Order - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[On 'Confirmation' page order number is Order Number: 0003900181355]]>
+    </line>
+    <line>
+      <![CDATA[SauceOnDemandSessionID=38478067170f94cf2a193800dcd99754 job-name=dc Automation Test]]>
+    </line>
+    <line>
+      <![CDATA[On Home page title is DC Shoes | Skate & Snowboard Quality Clothing]]>
+    </line>
+    <line>
+      <![CDATA[On Subcat page title is Mens T-Shirts: Short and Long Sleeve Tees - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[On subcategory page title is 'Mens T-Shirts: Short and Long Sleeve Tees - DC Shoes']]>
+    </line>
+    <line>
+      <![CDATA[On PDP page title is dcshoes OMEGA ADYZT03037 - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[After click on Checkout button on mini-cart title is Shopping Bag - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[After click on Checkout button on Cart page  title is Sign In - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[After click on 'Guest Checkout' button on Cart page  title is Enter Payment And Delivery Address - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[After click on 'continue' button on Inscription page got to Enter Paymentmode - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[Current page title is Enter Paymentmode - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[On 'Confirmation' page order number is Order Number: 0003900181356]]>
+    </line>
+    <line>
+      <![CDATA[This page title is :Thank You For Your Order - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[Current page title: Thank You For Your Order - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[On 'Confirmation' page order number is Order Number: 0003900181356]]>
+    </line>
+    <line>
+      <![CDATA[SauceOnDemandSessionID=38478067170f94cf2a193800dcd99754 job-name=dc Automation Test]]>
+    </line>
+    <line>
+      <![CDATA[Currently testing URL: data:,]]>
+    </line>
+    <line>
+      <![CDATA[On Home page title is DC Shoes | Skate & Snowboard Quality Clothing]]>
+    </line>
+    <line>
+      <![CDATA[On Subcat page title is Mens T-Shirts: Short and Long Sleeve Tees - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[On subcategory page title is 'Mens T-Shirts: Short and Long Sleeve Tees - DC Shoes']]>
+    </line>
+    <line>
+      <![CDATA[On PDP page title is dcshoes RAGGY RAGLAN ADYZT03050 - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[After click on Checkout button on mini-cart title is Shopping Bag - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[After click on Checkout button on Cart page  title is Sign In - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[After click on 'Guest Checkout' button on Cart page  title is Enter Payment And Delivery Address - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[On checkout 'Step1' page title is Enter Payment And Delivery Address - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[After click on 'continue' button on Inscription page got to Enter Paymentmode - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[Current page title is Enter Paymentmode - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[On 'Confirmation' page order number is Order Number: 0003900181357]]>
+    </line>
+    <line>
+      <![CDATA[This page title is :Thank You For Your Order - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[Current page title: Thank You For Your Order - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[On 'Confirmation' page order number is Order Number: 0003900181357]]>
+    </line>
+    <line>
+      <![CDATA[SauceOnDemandSessionID=ff43b20dca4511d610874d19c13fd4e9 job-name=dc Automation Test]]>
+    </line>
+    <line>
+      <![CDATA[Currently testing URL: data:,]]>
+    </line>
+    <line>
+      <![CDATA[On Home page title is DC Shoes | Skate & Snowboard Quality Clothing]]>
+    </line>
+    <line>
+      <![CDATA[After click on 'Login' link in the header page title is Login to your Personal Account - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[Logging in using email:software_test22@hotmail.com and password: fluid]]>
+    </line>
+    <line>
+      <![CDATA[Welcome message is : Welcome, Fluid]]>
+    </line>
+    <line>
+      <![CDATA[SauceOnDemandSessionID=15002e21cfe310e4a983342557a71d93 job-name=dc Automation Test]]>
+    </line>
+    <line>
+      <![CDATA[On Home page title is DC Shoes | Skate & Snowboard Quality Clothing]]>
+    </line>
+    <line>
+      <![CDATA[After click on 'Login' link in the header page title is Login to your Personal Account - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[Logging in using email:software_test22@yahoo.com and password: fluid2]]>
+    </line>
+    <line>
+      <![CDATA[Welcome message is : Welcome, Fluid]]>
+    </line>
+    <line>
+      <![CDATA[SauceOnDemandSessionID=15002e21cfe310e4a983342557a71d93 job-name=dc Automation Test]]>
+    </line>
+    <line>
+      <![CDATA[Currently testing URL: data:,]]>
+    </line>
+    <line>
+      <![CDATA[On Home page title is DC Shoes | Skate & Snowboard Quality Clothing]]>
+    </line>
+    <line>
+      <![CDATA[On subcategory page title is 'Sites-DC-US-Site - DC Shoes']]>
+    </line>
+    <line>
+      <![CDATA[On PDP page title is dcshoes WIZARDS CREW ADYKT00110 - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[None of the sizes are available for this product]]>
+    </line>
+    <line>
+      <![CDATA[Currently testing URL: data:,]]>
+    </line>
+    <line>
+      <![CDATA[On Home page title is DC Shoes | Skate & Snowboard Quality Clothing]]>
+    </line>
+    <line>
+      <![CDATA[After click on 'Login' link in the header page title is Login to your Personal Account - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[Logging in using email:software_test22@yahoo.com and password: fluid2]]>
+    </line>
+    <line>
+      <![CDATA[On Subcat page title is Mens T-Shirts: Short and Long Sleeve Tees - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[On subcategory page title is 'Mens T-Shirts: Short and Long Sleeve Tees - DC Shoes']]>
+    </line>
+    <line>
+      <![CDATA[On PDP page title is dcshoes RAGGY RAGLAN ADYZT03050 - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[After click on Checkout button on mini-cart title is Shopping Bag - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[After click on Checkout button on Cart page  title is Enter Paymentmode - DC Shoes]]>
+    </line>
+    <line>
+      <![CDATA[SauceOnDemandSessionID=f100d309c44d435c0e212b3afd2cbf19 job-name=dc Automation Test]]>
+    </line>
+  </reporter-output>
+  <suite name="Multibrowser_DC_Quiksilver" duration-ms="632635" started-at="2014-08-19T16:10:37Z" finished-at="2014-08-19T16:21:09Z">
+    <groups>
+    </groups>
+    <test name="SafariTest" duration-ms="0" started-at="2014-08-19T16:21:09Z" finished-at="2014-08-19T16:21:09Z">
+    </test>
+    <test name="FirefoxTest" duration-ms="0" started-at="2014-08-19T16:10:37Z" finished-at="2014-08-19T16:10:37Z">
+    </test>
+    <test name="ChromeTest" duration-ms="632592" started-at="2014-08-19T16:10:37Z" finished-at="2014-08-19T16:21:09Z">
+      <class name="com.quiksilver.test.GuestCheckoutExpressAmexTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)" name="beforeTest" is-config="true" duration-ms="1795" started-at="2014-08-19T16:12:13Z" finished-at="2014-08-19T16:12:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="getToHome(java.lang.String)" name="getToHome" is-config="true" duration-ms="5079" started-at="2014-08-19T16:12:15Z" finished-at="2014-08-19T16:12:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[stagingDC_US]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="FAIL" signature="getToStep1GuestCheckout()" name="getToStep1GuestCheckout" is-config="true" duration-ms="0" started-at="2014-08-19T16:12:20Z" finished-at="2014-08-19T16:12:20Z">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Timed out after 15 seconds waiting for presence of element located by: By.xpath: //a[contains(@href,'en_US/Cart-Show')]
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'PUNRAZ.local', ip: '10.37.129.2', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.7.5', java.version: '1.7.0_07'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 15 seconds waiting for presence of element located by: By.xpath: //a[contains(@href,'en_US/Cart-Show')]
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'PUNRAZ.local', ip: '10.37.129.2', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.7.5', java.version: '1.7.0_07'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:259)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.quiksilver.util.CommonMethods.fromMiniCartToCart(CommonMethods.java:1592)
+	at com.quiksilver.test.GuestCheckoutExpressAmexTest.getToStep1GuestCheckout(GuestCheckoutExpressAmexTest.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:525)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:202)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:613)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:842)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1166)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:1178)
+	at org.testng.TestRunner.privateRun(TestRunner.java:757)
+	at org.testng.TestRunner.run(TestRunner.java:608)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1158)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1083)
+	at org.testng.TestNG.run(TestNG.java:999)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:217)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:92)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=36.0.1985.143)
+  (Driver info: chromedriver=2.9.248307,platform=Mac OS X 10.7.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'PUNRAZ.local', ip: '10.37.129.2', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.7.5', java.version: '1.7.0_07'
+Session ID: e69051fde33ebaffaade324e43600a3b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=MAC, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=/var/folders/vv/30lw1_z968g34f959mr38g3m0000gp/T/.org.chromium.Chromium.d9kKGQ}, rotatable=false, locationContextEnabled=true, version=36.0.1985.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:730)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:39)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:106)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:103)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 32 more
+]]>
+            </full-stacktrace>
+          </exception>
+        </test-method>
+        <test-method status="SKIP" signature="testGuestCheckoutAmex()" name="testGuestCheckoutAmex" duration-ms="1" started-at="2014-08-19T16:13:15Z" finished-at="2014-08-19T16:13:15Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="615" started-at="2014-08-19T16:13:15Z" finished-at="2014-08-19T16:13:15Z">
+        </test-method>
+      </class>
+      <class name="com.quiksilver.test.SearchForItemGuestCheckoutTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)" name="beforeTest" is-config="true" duration-ms="1752" started-at="2014-08-19T16:17:38Z" finished-at="2014-08-19T16:17:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="getToHome(java.lang.String)" name="getToHome" is-config="true" duration-ms="5513" started-at="2014-08-19T16:17:40Z" finished-at="2014-08-19T16:17:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[stagingDC_US]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="FAIL" signature="searchForItemGetToCheckout()" name="searchForItemGetToCheckout" is-config="true" duration-ms="0" started-at="2014-08-19T16:17:45Z" finished-at="2014-08-19T16:17:45Z">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Timed out after 15 seconds waiting for presence of element located by: By.xpath: //a[contains(@href,'en_US/Cart-Show')]
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'PUNRAZ.local', ip: '10.37.129.2', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.7.5', java.version: '1.7.0_07'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Timed out after 15 seconds waiting for presence of element located by: By.xpath: //a[contains(@href,'en_US/Cart-Show')]
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'PUNRAZ.local', ip: '10.37.129.2', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.7.5', java.version: '1.7.0_07'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:259)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at com.quiksilver.util.CommonMethods.fromMiniCartToCart(CommonMethods.java:1592)
+	at com.quiksilver.test.SearchForItemGuestCheckoutTest.searchForItemGetToCheckout(SearchForItemGuestCheckoutTest.java:57)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:525)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:202)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:613)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:842)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1166)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.runWorkers(TestRunner.java:1178)
+	at org.testng.TestRunner.privateRun(TestRunner.java:757)
+	at org.testng.TestRunner.run(TestRunner.java:608)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1158)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1083)
+	at org.testng.TestNG.run(TestNG.java:999)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:217)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:92)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=36.0.1985.143)
+  (Driver info: chromedriver=2.9.248307,platform=Mac OS X 10.7.5 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.2', revision: '6a6995d31c7c56c340d6f45a76976d43506cd6cc', time: '2014-06-03 10:52:47'
+System info: host: 'PUNRAZ.local', ip: '10.37.129.2', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.7.5', java.version: '1.7.0_07'
+Session ID: 85bc766da38954f608d6b84097afde0e
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=MAC, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=/var/folders/vv/30lw1_z968g34f959mr38g3m0000gp/T/.org.chromium.Chromium.PGe44J}, rotatable=false, locationContextEnabled=true, version=36.0.1985.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:730)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:39)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:106)
+	at org.openqa.selenium.support.ui.ExpectedConditions$3.apply(ExpectedConditions.java:103)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 32 more
+]]>
+            </full-stacktrace>
+          </exception>
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="615" started-at="2014-08-19T16:19:35Z" finished-at="2014-08-19T16:19:36Z">
+        </test-method>
+        <test-method status="SKIP" signature="searchForItemGuestCheckout()" name="searchForItemGuestCheckout" duration-ms="0" started-at="2014-08-19T16:19:35Z" finished-at="2014-08-19T16:19:35Z">
+        </test-method>
+      </class>
+      <class name="com.quiksilver.test.GuestVisaCheckoutTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)" name="beforeTest" is-config="true" duration-ms="1762" started-at="2014-08-19T16:15:51Z" finished-at="2014-08-19T16:15:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="getToHome(java.lang.String)" name="getToHome" is-config="true" duration-ms="4785" started-at="2014-08-19T16:15:53Z" finished-at="2014-08-19T16:15:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[stagingDC_US]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="getToStep1()" name="getToStep1" is-config="true" duration-ms="43932" started-at="2014-08-19T16:15:58Z" finished-at="2014-08-19T16:16:42Z">
+        </test-method>
+        <test-method status="PASS" signature="testGuestCheckoutVisa()" name="testGuestCheckoutVisa" duration-ms="19574" started-at="2014-08-19T16:16:42Z" finished-at="2014-08-19T16:17:01Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="616" started-at="2014-08-19T16:17:01Z" finished-at="2014-08-19T16:17:02Z">
+        </test-method>
+      </class>
+      <class name="com.quiksilver.test.AddToCartFromPdpTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)" name="beforeTest" is-config="true" duration-ms="1825" started-at="2014-08-19T16:11:21Z" finished-at="2014-08-19T16:11:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="getToHome(java.lang.String)" name="getToHome" is-config="true" duration-ms="5321" started-at="2014-08-19T16:11:23Z" finished-at="2014-08-19T16:11:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[stagingDC_US]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="fromHomeToPDP()" name="fromHomeToPDP" duration-ms="44404" started-at="2014-08-19T16:11:28Z" finished-at="2014-08-19T16:12:13Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="621" started-at="2014-08-19T16:12:13Z" finished-at="2014-08-19T16:12:13Z">
+        </test-method>
+      </class>
+      <class name="com.quiksilver.test.SignedInAddToCartContinueShoppingCheckoutTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)" name="beforeTest" is-config="true" duration-ms="1631" started-at="2014-08-19T16:19:36Z" finished-at="2014-08-19T16:19:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="getToHome(java.lang.String)" name="getToHome" is-config="true" duration-ms="5469" started-at="2014-08-19T16:19:37Z" finished-at="2014-08-19T16:19:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[stagingDC_US]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="addToCartContinueShoppingPDP()" name="addToCartContinueShoppingPDP" is-config="true" duration-ms="83383" started-at="2014-08-19T16:19:43Z" finished-at="2014-08-19T16:21:06Z">
+        </test-method>
+        <test-method status="PASS" signature="testSignedInAddToCartContinueShopping()" name="testSignedInAddToCartContinueShopping" duration-ms="2293" started-at="2014-08-19T16:21:06Z" finished-at="2014-08-19T16:21:09Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="565" started-at="2014-08-19T16:21:09Z" finished-at="2014-08-19T16:21:09Z">
+        </test-method>
+      </class>
+      <class name="com.quiksilver.test.AccountRegistrationTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)" name="beforeTest" is-config="true" duration-ms="4941" started-at="2014-08-19T16:10:37Z" finished-at="2014-08-19T16:10:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="getToHome(java.lang.String)" name="getToHome" is-config="true" duration-ms="10779" started-at="2014-08-19T16:10:41Z" finished-at="2014-08-19T16:10:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[stagingDC_US]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="registrationForm()" name="registrationForm" duration-ms="28285" started-at="2014-08-19T16:10:52Z" finished-at="2014-08-19T16:11:21Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="764" started-at="2014-08-19T16:11:21Z" finished-at="2014-08-19T16:11:21Z">
+        </test-method>
+      </class>
+      <class name="com.quiksilver.test.LoginTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)" name="beforeTest" is-config="true" duration-ms="1780" started-at="2014-08-19T16:17:02Z" finished-at="2014-08-19T16:17:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="getToHome(java.lang.String)" name="getToHome" is-config="true" duration-ms="5505" started-at="2014-08-19T16:17:04Z" finished-at="2014-08-19T16:17:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[stagingDC_US]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="checkoutSignInRegistered(java.lang.String, java.lang.String, java.lang.String)" name="checkoutSignInRegistered" duration-ms="13001" started-at="2014-08-19T16:17:09Z" finished-at="2014-08-19T16:17:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[software_test22@hotmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fluid]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Welcome,Veronica]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="getToHome(java.lang.String)" name="getToHome" is-config="true" duration-ms="3837" started-at="2014-08-19T16:17:22Z" finished-at="2014-08-19T16:17:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[stagingDC_US]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="checkoutSignInRegistered(java.lang.String, java.lang.String, java.lang.String)" name="checkoutSignInRegistered" duration-ms="11521" started-at="2014-08-19T16:17:26Z" finished-at="2014-08-19T16:17:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[software_test22@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fluid2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Welcome,Veronica]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="562" started-at="2014-08-19T16:17:38Z" finished-at="2014-08-19T16:17:38Z">
+        </test-method>
+      </class>
+      <class name="com.quiksilver.test.GuestCheckoutMultiPaymentWithDataProvider">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)" name="beforeTest" is-config="true" duration-ms="1828" started-at="2014-08-19T16:13:15Z" finished-at="2014-08-19T16:13:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="getToHome(java.lang.String)" name="getToHome" is-config="true" duration-ms="6126" started-at="2014-08-19T16:13:18Z" finished-at="2014-08-19T16:13:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[stagingDC_US]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="getToStep1()" name="getToStep1" is-config="true" duration-ms="46697" started-at="2014-08-19T16:13:24Z" finished-at="2014-08-19T16:14:11Z">
+        </test-method>
+        <test-method status="PASS" signature="fillOutStep1InscriptionForm(java.util.Hashtable)" name="fillOutStep1InscriptionForm" duration-ms="26878" started-at="2014-08-19T16:14:11Z" finished-at="2014-08-19T16:14:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{STATEUS=California, ADDRESS1US=222 Sutter Street, ADDITIONAL INFO=please leave it with my neighbour, LOYALTY=, ADDRESS2US=Floor 8, CITYUS=San Francisco, PHONE=9255431122, ZIPUS=94108.0, EMAIL=test@yahoo.com, LNAME=DataRowfirst, CARD TYPE=Visa, ZIP=L75 1WX, ADDRESS2=, ADDRESS1=31 De Brouckereplein, FNAME=Veronica}]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="getToHome(java.lang.String)" name="getToHome" is-config="true" duration-ms="3736" started-at="2014-08-19T16:14:38Z" finished-at="2014-08-19T16:14:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[stagingDC_US]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="getToStep1()" name="getToStep1" is-config="true" duration-ms="45937" started-at="2014-08-19T16:14:41Z" finished-at="2014-08-19T16:15:27Z">
+        </test-method>
+        <test-method status="PASS" signature="fillOutStep1InscriptionForm(java.util.Hashtable)" name="fillOutStep1InscriptionForm" duration-ms="23410" started-at="2014-08-19T16:15:27Z" finished-at="2014-08-19T16:15:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{STATEUS=California, ADDRESS1US=123 Crespi Driver, ADDITIONAL INFO=here is my note, LOYALTY=, ADDRESS2US=apt 1, CITYUS=San Francisco, PHONE=9255431122, ZIPUS=94132.0, EMAIL=test@gmail.com, LNAME=DataRowsecond, CARD TYPE=Visa, ZIP=W1D 3DH, ADDRESS2=, ADDRESS1=123 Richmond Mews, FNAME=Fluid}]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="570" started-at="2014-08-19T16:15:51Z" finished-at="2014-08-19T16:15:51Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
