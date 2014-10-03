@@ -26,11 +26,11 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.ITestContext;
 import org.testng.Reporter;
 
-import com.saucelabs.common.SauceOnDemandAuthentication;
-import com.saucelabs.common.SauceOnDemandSessionIdProvider;
+//import com.saucelabs.common.SauceOnDemandAuthentication;
+//import com.saucelabs.common.SauceOnDemandSessionIdProvider;
 
 
-public class WebDriverManager  implements SauceOnDemandSessionIdProvider {
+public class WebDriverManager  {
 	public static RemoteWebDriver driver ;
 	private static Logger log;
 	private static DesiredCapabilities capability;
